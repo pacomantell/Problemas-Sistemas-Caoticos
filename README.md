@@ -1,4 +1,4 @@
-# Problems Sistemas Caóticos
+# Problemas Sistemas Caóticos
 Serie de problemas sobre Caos y Sistemas Dinámicos.
 Enunciados disponibles en Ejercicios_Propuestos_Enunciados
 ## Problema 1.
